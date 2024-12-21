@@ -41,7 +41,7 @@ webrtc-project
 1. Clone the repository:
    ```
    git clone <repository-url>
-   cd webrtc-project
+   cd web_RTC--AI
    ```
 
 2. Install the required dependencies:
