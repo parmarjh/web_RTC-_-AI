@@ -40,7 +40,7 @@ webrtc-project
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone <github.com/parmarjh/web_RTC-_-AI>
    cd web_RTC--AI
    ```
 
